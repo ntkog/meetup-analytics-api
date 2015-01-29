@@ -18,7 +18,7 @@ $ git clone https://github.com/ntkog/meetup-analytics-api.git .
 $ npm install
 ```
 
-Then create a folder called 'data', copy all json data previously fetched to that folder and put it in the root folder of the proyect ( If you follow the steps above, in 'analytics' folder)
+Then create a folder called **'data'**, copy all json data previously fetched to that folder and put it in the root folder of the project ( If you follow the steps above, in 'analytics' folder)
 
 
 ```bash
@@ -52,7 +52,7 @@ WARNING : It's kinda messy , i have to normalize it, probably you have to look i
     "params" : ...
 }
 ```
--TODO : Explain custom endpoint options
+-TODO : Explain custom endpoint options.
 
 
 [Meetup Fetcher]:https://github.com/ntkog/Meetup-fetcher
